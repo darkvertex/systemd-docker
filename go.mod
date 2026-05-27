@@ -1,6 +1,6 @@
 module github.com/embtom/systemd-docker
 
-go 1.18
+go 1.26
 
 require (
 	github.com/Microsoft/go-winio v0.5.1
